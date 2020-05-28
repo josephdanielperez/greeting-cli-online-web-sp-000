@@ -6,6 +6,3 @@ def greeting
   name = gets.strip
   greeting(name)
 end
-
-greeting
-# code your CLI here!
